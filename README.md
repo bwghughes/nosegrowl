@@ -1,4 +1,5 @@
-nosegrowl
+NoseGrowl
 =========
 
-Simplified, all Pythonic nosegrowl - Grolw notifications for Nosetests.
+Simplified, all Pythonic nosegrowl - Growl notifications for Nosetests.
+
